@@ -7,3 +7,5 @@ this is piltexse :
 5. five
 
 6. six
+
+add cbg-piletexse
